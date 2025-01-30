@@ -762,3 +762,11 @@ iframe {
     color: #7f8c8d;
     margin-top: 30px;
 }
+
+.tameiu{
+  /* position:fixed ; */
+  width: 110px;
+  border-radius: 50px;
+  /* display: block; */
+  margin-top: 10px;
+}
